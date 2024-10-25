@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.API\\E-Commerce.API.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Specifications\\OrderSpecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Repository\\Specifications\\OrderSpecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\OrderItemResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.API\\Helper\\OrderItemResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\OrderProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.API\\Helper\\OrderProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\Entities\\Order\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\Entities\\Order\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\OrderItemProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\Entities\\Order\\OrderItemProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\ShippingAddress.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\Entities\\Order\\ShippingAddress.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.API\\Helper\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderResultDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\DataTransferObjects\\OrderResultDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderItemDTO.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\DataTransferObjects\\OrderItemDTO.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\ShippingAddressDTO.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\DataTransferObjects\\ShippingAddressDTO.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Interfaces\\Services\\IOrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\Interfaces\\Services\\IOrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Core\\DataTransferObjects\\OrderDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\Configurations\\OrderItemConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Repository\\Data\\Configurations\\OrderItemConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Repository\\Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\Configurations\\OrderConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Repository\\Data\\Configurations\\OrderConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E-Commerce.API.csproj.user",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj.user",
+              "RelativeDocumentMoniker": "E-Commerce.API\\E-Commerce.API.csproj.user",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\E-Commerce.API.csproj.user",
+              "RelativeToolTip": "E-Commerce.API\\E-Commerce.API.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-25T20:49:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Specifications\\OrderSpecification.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Repository\\Specifications\\OrderSpecification.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Specifications\\OrderSpecification.cs",
+              "RelativeToolTip": "E-Commerce.Repository\\Specifications\\OrderSpecification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:09:16.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Services\\OrderService.cs",
+              "RelativeToolTip": "E-Commerce.Services\\OrderService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAApwHIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:11:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemResolver.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\OrderItemResolver.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Helper\\OrderItemResolver.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\OrderItemResolver.cs",
+              "RelativeToolTip": "E-Commerce.API\\Helper\\OrderItemResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvxEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:55:21.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Helper\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\OrderProfile.cs",
+              "RelativeToolTip": "E-Commerce.API\\Helper\\OrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:43:58.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\Entities\\Order\\Order.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\Order.cs",
+              "RelativeToolTip": "E-Commerce.Core\\Entities\\Order\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:39:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\Entities\\Order\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\OrderItem.cs",
+              "RelativeToolTip": "E-Commerce.Core\\Entities\\Order\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:07:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemProduct.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\OrderItemProduct.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\Entities\\Order\\OrderItemProduct.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\OrderItemProduct.cs",
+              "RelativeToolTip": "E-Commerce.Core\\Entities\\Order\\OrderItemProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:24:48.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\Entities\\Order\\ShippingAddress.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Entities\\Order\\ShippingAddress.cs",
+              "RelativeToolTip": "E-Commerce.Core\\Entities\\Order\\ShippingAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:22:49.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "E-Commerce.API\\Helper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:45:49.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderResultDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\DataTransferObjects\\OrderResultDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderResultDTO.cs",
+              "RelativeToolTip": "E-Commerce.Core\\DataTransferObjects\\OrderResultDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:35:42.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\DataTransferObjects\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderItemDTO.cs",
+              "RelativeToolTip": "E-Commerce.Core\\DataTransferObjects\\OrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:38:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShippingAddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\ShippingAddressDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\DataTransferObjects\\ShippingAddressDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\ShippingAddressDTO.cs",
+              "RelativeToolTip": "E-Commerce.Core\\DataTransferObjects\\ShippingAddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:32:28.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "E-Commerce.Core\\Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:49:35.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\DataTransferObjects\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Core\\DataTransferObjects\\OrderDTO.cs",
+              "RelativeToolTip": "E-Commerce.Core\\DataTransferObjects\\OrderDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:30:44.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Repository\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "E-Commerce.Repository\\Data\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:33:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Repository\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\DataContext.cs",
+              "RelativeToolTip": "E-Commerce.Repository\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:26:02.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Repository\\Data\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.Repository\\Data\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "E-Commerce.Repository\\Data\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:27:08.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Route\\2-C#\\7 - API\\7\\E-Commerce\\E-Commerce.API\\Program.cs",
+              "RelativeToolTip": "E-Commerce.API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:31:52.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
